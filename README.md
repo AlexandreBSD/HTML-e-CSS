@@ -1,4 +1,4 @@
-<h1><strong><hr>DESAFIOS MODULO 01</hr></strong></h1>
+<h1><strong><ins>DESAFIOS MODULO 01</ins></strong></h1>
 
  <ul>
  <li> <a href="https://alexandrebsd.github.io/HTML-e-CSS/DESAFIOS MODULO 01 HTML+CSS/desafio Navegacao/amarela.html" target="_blank"> Executar o Desafio de Navegacao  </a> </li>
