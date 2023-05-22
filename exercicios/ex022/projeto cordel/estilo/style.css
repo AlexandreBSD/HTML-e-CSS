@@ -19,4 +19,6 @@ header{
 
 header > h1{
     padding-top: 50px;
+    font-variant: small-caps;
+    text-transform: uppercase;
 }
